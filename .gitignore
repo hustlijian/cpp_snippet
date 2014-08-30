@@ -1,4 +1,5 @@
 *.o
+*.swp
 main
 tags
 cscope.*
