@@ -21,3 +21,7 @@ calculate the any digit of sqrt root.(bigger than double can express)
     $ ./main 2 120
     1.414213562373095048801688724209698078569671875376948073176679737990732478462107038850387534327641572735013846230912297034
     The 120th sqrt(2) digit is: 4
+
+## method
+
+![sqrt.png](https://raw.githubusercontent.com/hustlijian/cpp_snippet/master/sqrtbit/sqrt.png)
